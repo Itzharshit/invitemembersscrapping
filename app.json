@@ -1,0 +1,37 @@
+{
+    "name": "inviteAllUserBot",
+    "description": "forwarder.",
+    "logo": "",
+    "keywords": [
+        "telegram",
+        "telethon",
+        "telegram-bot",
+        "botzhub"
+    ],
+    "repository": "https://github.com/xditya/inviteAllUserBot",
+    "website": "xditya.me",
+    "success_url": "https://t.me/BotzHub",
+    "env": {
+        "API_ID": {
+            "description": "API ID.",
+            "value": ""
+        },
+        "API_HASH": {
+            "description": "API HASH",
+            "value": ""
+        },
+        "SESSION": {
+            "description": "Telethon string session.",
+            "value": ""
+        },
+        "SUDOS": {
+            "description": "User IDs of users to be able to use the bot, split by a space.",
+            "value": ""
+        }
+    },
+    "buildpacks": [
+        {
+            "url": "heroku/python"
+        }
+    ]
+}

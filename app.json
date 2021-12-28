@@ -26,8 +26,9 @@
         },
         "SUDOS": {
             "description": "User IDs of users to be able to use the bot, split by a space.",
-            "required": false
             "value": ""
+            "required": false
+           
             
         }
     },

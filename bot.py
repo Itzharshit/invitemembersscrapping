@@ -118,7 +118,7 @@ def user_full_name(user):
 
 @client.on(events.NewMessage(pattern="^.alive$", from_users=SUDOS))
 async def alive_resp(event):
-    await event.reply("I'm online.\n\n~ @Bots4Sale")
+    await event.reply("I'm online.\n\n~ Developer @army0071")
 
 
 @client.on(events.NewMessage(pattern=r"^.allinvite ?(.*)", from_users=SUDOS))

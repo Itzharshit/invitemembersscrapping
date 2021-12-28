@@ -8,7 +8,7 @@
         "telegram-bot",
         "botzhub"
     ],
-    "repository": "https://github.com/Itzharshit/invitemembersscrapping",
+    "repository": "https://github.com/xditya/inviteAllUserBot",
     "website": "xditya.me",
     "success_url": "https://t.me/BotzHub",
     "env": {

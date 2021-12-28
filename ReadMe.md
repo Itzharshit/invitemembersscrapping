@@ -1,1 +1,1 @@
-[Deploy](https://heroku.com/deploy?template=https://github.com/xditya/inviteAllUserBot)
+[Deploy](https://heroku.com/deploy)
